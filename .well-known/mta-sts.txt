@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce
+mode: none
 mx: your-mx-record-here.com
 max_age: 604800
